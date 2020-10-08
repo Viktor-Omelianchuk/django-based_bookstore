@@ -11,11 +11,6 @@ Django-based_bookstore
 
 .. contents::
 
-Website
--------------------
-
-- https://immense-earth-30847.herokuapp.com/
-
 
 Installation
 -------------------
